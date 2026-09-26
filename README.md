@@ -4,7 +4,7 @@ This repository contains a Node.js web application demonstrating how to implemen
 
 ## 🚀 Features
 
-*   **Session Management:** Secure user sessions maintained via Express-Session.
+*   **Session Management:** Secure user sessions maintained via Redis
 *   **Redis Integration:** Leverages Redis for scalable session storage and caching (`connect-redis`).
 *   **MVC Architecture:** Clean separation of concerns (Routes, Controllers, Services, Views).
 *   **Server-Side Rendering:** Uses EJS (`login.ejs`, `login_error.ejs`) for dynamic frontend rendering.
